@@ -2,8 +2,8 @@
   {
     "list_of_regions_available":["US_South","EU_DE","EU_GB","JP_OSA","JP_TOK","US_East","AU_SYD","CA_TOR","BR_SAO"],
     "region":"JP_TOK",
-    "api_token": "3e91771e-40d2-42cd-96ac-ebe08462c96c",
-    "cluster_name":"webapCluster/cfvdf6ef0lb6gpb1puig",
+    "api_token": "Your_api_token",
+    "cluster_name":"cluster_name",
     "duration_in_hours": 1.5
   }
 ]
